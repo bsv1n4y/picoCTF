@@ -8,7 +8,7 @@ Category: Forensics
 Hi, intrepid investigator! 📄🔍 You've stumbled upon a peculiar PDF filled with what seems like nothing more than garbled nonsense. But beware! Not everything is as it appears. Amidst the chaos lies a hidden treasure—an elusive flag waiting to be uncovered.
 Find the PDF file here Hidden Confidential Document and uncover the flag within the metadata.
 
-[https://challenge-files.picoctf.net/c_amiable_citadel/85ff7059d0bc98abe4aa040e2dd70a342f9f9aaa8edd70ccba166efeb6249afa/confidential.pdf](PDF Download link)
+[https://challenge-files.picoctf.net/c_amiable_citadel/85ff7059d0bc98abe4aa040e2dd70a342f9f9aaa8edd70ccba166efeb6249afa/confidential.pdf] (PDF Download link)
 ## Solution
 -----------------------------------
 
